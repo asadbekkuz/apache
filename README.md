@@ -1,1 +1,1 @@
-# apache configuratio for yii2 framework
+# apache configuration for yii2 framework
